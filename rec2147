@@ -1,0 +1,21 @@
+Singh-Aryaman-Wisdo-Anselm-p2/:
+total 80
+-rw-r--r--. 1 myid  182 Nov 17 23:17 env.c
+-rw-r--r--. 1 myid   61 Nov 17 23:03 false.c
+-rw-r--r--. 1 myid 6645 Nov 19 14:10 head.c
+-rw-r--r--. 1 myid  567 Nov 19 13:47 makefile
+-rw-r--r--. 1 myid  389 Nov 19 16:41 README
+-rw-r--r--. 1 myid    0 Nov 19 16:45 rec2147
+-rw-r--r--. 1 myid 7074 Nov 19 16:45 tail.c
+-rw-r--r--. 1 myid   25 Nov 15 17:26 test1
+-rw-r--r--. 1 myid   24 Nov 15 17:26 test2
+-rw-r--r--. 1 myid   12 Nov 15 17:26 test3
+-rw-r--r--. 1 myid   13 Nov 15 17:26 test4
+-rw-r--r--. 1 myid   11 Nov 15 17:26 test5
+-rw-r--r--. 1 myid    4 Nov 15 17:26 test6
+-rw-r--r--. 1 myid   16 Nov 15 17:26 test7
+-rw-r--r--. 1 myid   61 Nov 17 23:03 true.c
+-rw-r--r--. 1 myid   37 Nov 16 20:07 usetest
+-rw-r--r--. 1 myid 4707 Nov 19 16:44 wc.c
+-rw-r--r--. 1 myid   30 Nov 18 18:31 wctest
+/home/myid/as58810/Singh-Aryaman-Wisdo-Anselm-p2/:/home/myid/csci-1730
